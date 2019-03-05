@@ -11,18 +11,14 @@ class River
   end
 
   def lose_fish(fish)
-    if @fishes.include?(fish) == true
       @fishes.delete(fish)
-    else
-      return
-    end
   end
 
   def exist(fish)
     if @fishes.include?(fish) == true
       return fish
     else
-      return nil
+      return "not a fish"
     end
   end
 

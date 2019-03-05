@@ -9,7 +9,10 @@ class Bear
   end
 
   def eat_fish(fish)
-    @stomach << fish
+      @stomach << fish
+      if fish == "not a fish"
+        @stomach.delete("not a fish")
+      end
   end
 
   def speak_when_eaten_fish
