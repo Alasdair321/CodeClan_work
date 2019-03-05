@@ -9,10 +9,6 @@ class SportTeam
     @points = 0
   end
 
-  # @score = {
-  #   @team_name => @points
-  # }
-
   def add_player(new_player)
     @players.push(new_player)
   end
