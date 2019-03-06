@@ -6,6 +6,7 @@ class Customer
     @drinks = []
     @age = age
     @drunkeness = drunkeness
+    @food_in_belly = []
   end
 
   def has_name
@@ -36,6 +37,14 @@ class Customer
     end
   end
 
+  def eat_food(pub, food)
+    @wallet -= food.price
+    pub.add_money_till_food(food)
+    eat_an_eats(food)
+    eat = pub.take_food(food)
+    @food_in_belly << eat if !eat.nil?
+  end
+
   def drink_count
     @drinks.count
   end
@@ -44,6 +53,9 @@ class Customer
     @drunkeness += drink.potency
   end
 
+  def eat_an_eats(food)
+    @drunkeness -= food.rejuv
+  end
 
 
 end
