@@ -27,19 +27,12 @@ class BearTest < MiniTest::Test
   end
 
   def test_eat_fish_exist
-    @bear.eat_fish(@river.exist(@fish2))
-    fish_in_bear = @bear.stomach.length
-    @river.lose_fish(@fish2)
-    assert_equal(1,fish_in_bear)
-    assert_equal(3, @river.fish_number)
-  end
 
-  def test_eat_fish_not_exist
-    @bear.eat_fish(@river.exist(@fish5))
-    fish_in_bear = @bear.stomach.length
-    @river.lose_fish(@fish5)
-    assert_equal(0,fish_in_bear)
-    assert_equal(4, @river.fish_number)
+    @bear.eat_fish(@river.lose_fish(@fish2))
+    fish_in_bear = @bear.stomach_contents_count
+
+    assert_equal(1, fish_in_bear)
+    assert_equal(3, @river.fish_number)
   end
 
   def test_speak_when_eaten_fish

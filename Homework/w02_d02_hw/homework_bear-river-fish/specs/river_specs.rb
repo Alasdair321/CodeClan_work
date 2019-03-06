@@ -25,15 +25,18 @@ class RiverTest < MiniTest::Test
   end
 
   def test_lose_fish
-    @river.lose_fish(@fish1)
+    answer = @river.lose_fish(@fish1)
     assert_equal(3, @river.fish_number)
+    assert_equal(@fish1, answer)
   end
 
   def test_exist_false
+    skip
     assert_equal(nil, @river.exist(@fish5) )
   end
 
   def test_exist_true
+    skip
     assert_equal(@fish3, @river.exist(@fish3) )
   end
 
