@@ -9,12 +9,12 @@ class PubTest < MiniTest::Test
 
   def setup
     @pub = Pub.new(100, "Free Drinks")
-    @drink1 = Drink.new("Piss Water", 10)
-    @drink2 = Drink.new("Piss Water Light", 8)
-    @drink3 = Drink.new("Piss Water Dark", 12)
-    @drink4 = Drink.new("Piss Water Cloudy", 14)
-    @drink5 = Drink.new("Piss Water Fizzy", 16)
-    @customer = Customer.new("Joe", 20)
+    @drink1 = Drink.new("Piss Water", 10, 1)
+    @drink2 = Drink.new("Piss Water Light", 8, 2)
+    @drink3 = Drink.new("Piss Water Dark", 12, 3)
+    @drink4 = Drink.new("Piss Water Cloudy", 14, 4)
+    @drink5 = Drink.new("Piss Water Fizzy", 16, 5)
+    @customer = Customer.new("Tweeker Joe", 20, 19, 1)
 
     @drinks = [@drink1, @drink2, @drink3, @drink4, @drink5]
     @stock = @pub.add_drinks_to_stock(@drinks)
@@ -39,6 +39,10 @@ class PubTest < MiniTest::Test
 
   def test_add_money_till
     assert_equal(112, @pub.add_money_till(@drink3))
+  end
+
+  def test_age_check
+    assert_equal(true, @pub.age_check(@customer.age))
   end
 
 

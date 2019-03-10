@@ -62,11 +62,11 @@ class Pub
     end
 
     def age_check(age)
-      if age >= 18
-        true
-      else
-        false
-      end
+      return age >= 18
+      #   true
+      # else
+      #   false
+      # end
     end
 
 end
