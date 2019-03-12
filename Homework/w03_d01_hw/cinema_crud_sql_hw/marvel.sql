@@ -56,20 +56,22 @@ INSERT INTO movies (title, year, show_time) VALUES ('Spider-Man: Homecoming', 20
 INSERT INTO movies (title, year, show_time) VALUES ('Thor: Ragnarok', 2017, '17:40');
 INSERT INTO movies (title, year, show_time) VALUES ('Black Panther', 2018, '22:00');
 
-UPDATE people SET name = 'Mateusz Stanczak' WHERE name = 'Montgomery Stanczak';
-
-DELETE FROM movies WHERE title = 'Batman Begins';
-
-INSERT INTO people (name) VALUES ('Jarrod Bennie');
-
-DELETE FROM people WHERE name = 'Jordan Davidson';
-
-INSERT INTO movies (title, year, show_time) VALUES ('Avengers: Infinity War', 2018, '23:45');
+-- UPDATE people SET name = 'Mateusz Stanczak' WHERE name = 'Montgomery Stanczak';
+--
+-- DELETE FROM movies WHERE title = 'Batman Begins';
+--
+-- INSERT INTO people (name) VALUES ('Jarrod Bennie');
+--
+-- DELETE FROM people WHERE name = 'Jordan Davidson';
+--
+-- INSERT INTO movies (title, year, show_time) VALUES ('Avengers: Infinity War', 2018, '23:45');
+-- -- SELECT * FROM movies;
+--
+-- SELECT show_time FROM movies WHERE title = 'Guardians of the Galaxy 2';
+-- UPDATE movies SET show_time = '20:45' WHERE title = 'Guardians of the Galaxy 2';
+-- SELECT show_time FROM movies WHERE title = 'Guardians of the Galaxy 2';
+--
+-- DELETE FROM movies WHERE id BETWEEN 3 AND 7;
 -- SELECT * FROM movies;
 
-SELECT show_time FROM movies WHERE title = 'Guardians of the Galaxy 2';
-UPDATE movies SET show_time = '20:45' WHERE title = 'Guardians of the Galaxy 2';
-SELECT show_time FROM movies WHERE title = 'Guardians of the Galaxy 2';
-
-DELETE FROM movies WHERE id BETWEEN 3 AND 7;
-SELECT * FROM movies;
+SELECT * FROM movies WHERE title LIKE '%Guardians%';

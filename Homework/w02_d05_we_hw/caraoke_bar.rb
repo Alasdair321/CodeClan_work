@@ -130,7 +130,8 @@ class CaraokeBar
     if guest.guestcash >= drink.cost && guest.inebriation <= 10
       guest.pay_money(drink.cost)
       guest.consume_alcohol(drink)
-      hash1 = @drinks.find{|hash| hash[drink]}
+      @drinks.find{|stock| stock[drink]}[drink] -= 1
+
       hash1[drink] = hash1[drink] - 1
       hash2 = @guestspending.find{|hash| hash[guest]}
       hash2[guest] = hash2[guest] + drink.cost
