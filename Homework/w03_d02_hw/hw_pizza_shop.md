@@ -52,6 +52,7 @@ Your task this evening is to read over the completed end\_code for tomorrow's le
 
 5) Why might it be important to check if `options['id']` is `nil` in our `initialize` method before assigning `@id` the value of `options[‘id’].to_i?`
     The code ran perfectly without it, so I don't know the point in checking nil on options['id']
+    Anwer
     
 6) What are the responsibilities of `SqlRunner`?
     To run repeated code across functions by calling the class SqlRunner
