@@ -46,4 +46,13 @@ class Movie
     result = SqlRunner.run(sql, values)
     return result.map { |performer| Performer.new(performer) }
   end
+
+  def budget_left
+    sql = 'SELECT fee
+          FROM castings
+          WHERE movie_id = $1'
+    values = [@id]
+    result = SqlRunner.run(sql, values).to_a
+    return result.reduce(@budget){|sum, fee_hash| sum -= fee_hash['fee'].to_i}
+  end
 end

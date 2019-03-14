@@ -80,6 +80,9 @@ casting5 = Casting.new({
 casting5.save
 
 p movie1.performers
+p performer1.movies
+
+p movie1.budget_left
 
 # performer3.first_name = 'Elpidia'
 # performer3.last_name = 'Carrillo'
