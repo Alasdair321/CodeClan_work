@@ -23,9 +23,15 @@ class Artist
     @id = id_string.to_i
   end
 
-  def self.delete_all()
+  def self.delete_all
     sql = "DELETE FROM artists"
     SqlRunner.run(sql)
+  end
+
+  def delete
+    sql = "DELETE FROM artists WHERE (id) = ($1)"
+    values = [@id]
+    SqlRunner.run(sql, values)
   end
 
   def albums
@@ -34,6 +40,19 @@ class Artist
     returned_array = SqlRunner.run(sql, values)
     album_objects = returned_array.map { |album| Album.new(album) }
     return album_objects
+  end
+
+  def update #does not work
+    sql = "UPDATE artists SET (name) = ($1) WHERE id = $2"
+    values = [@name, @id]
+    SqlRunner.run(sql, values)
+  end
+
+  def self.find(id)
+    sql = "SELECT * FROM artists WHERE id = $1"
+    values = [id]
+    hash = SqlRunner.run(sql, values).first
+    return Artist.new(hash)
   end
 
 end
