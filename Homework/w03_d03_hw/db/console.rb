@@ -12,14 +12,16 @@ artist2.save
 artist2.name = 'Generic Pop Band'
 # p artist2
 # artist2.update
+# p artist2
+
 
 
 album1 = Album.new({'title'=>'Nightbook','genre'=>'Piano','artist_id'=>artist1.id})
 album1.save
-# p album1
+p album1
 album1.title = 'Different title'
-# p album1
-# album1.update
+p album1
+album1.update
 
 album2 = Album.new({'title'=>'Divenire','genre'=>'Piano','artist_id'=>artist1.id})
 album2.save
