@@ -1,0 +1,37 @@
+<p>Order number is:  <%= @order.id %></p>
+<table>
+  <tr>
+    <th>Information</th>
+    <th>Data</th>
+  </tr>
+  <tr>
+    <td>First Name</td>
+    <td><%= @order.first_name %></td>
+  </tr>
+  <tr>
+    <td>Last Name</td>
+    <td><%= @order.last_name %></td>
+  </tr>
+  <tr>
+    <td>Topping</td>
+    <td><%= @order.topping %></td>
+  </tr>
+  <tr>
+    <td>Quantity</td>
+    <td><%= @order.quantity %></td>
+  </tr>
+  <tr>
+    <td>Price</td>
+    <td>£<%= @order.price %></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="/pizza-orders/<%=@order.id%>/edit">Update Order</a>      
+    </td>
+    <td>
+      <form action="/pizza-orders/<%=@order.id%>/delete" method="post">
+        <input type="submit" value="Delete Order">
+      </form>
+    </td>
+  </tr>
+</table>

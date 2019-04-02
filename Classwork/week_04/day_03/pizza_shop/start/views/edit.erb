@@ -1,0 +1,27 @@
+<h2>Order Details:</h2>
+<form action="/pizza-orders/<%=@order.id%>" method="post">
+  <ol>
+    <li>
+      <label for="first-name">First Name: </label>
+      <input type="text" id="first-name" name="first_name" value="<%=@order.first_name%>">
+    </li>
+    <li>
+      <label for="last-name">Last Name: </label>
+      <input type="text" id="last-name" name="last_name" value="<%=@order.last_name%>">
+    </li>
+    <li>
+      <label for="topping">Topping: </label>
+      <select id="topping" name="topping">
+        <option value="pepperoni">Pepperoni</option>
+        <option value="vegetable">Vegetable</option>
+        <option value="mushroom">Mushroom</option>
+        <option value="fourcheese">Four Cheese</option>
+      </select>
+    </li>
+    <li>
+      <label for="quantity">Quantity: </label>
+      <input type="number" id="quantity" name="quantity" value="<%=@order.quantity%>">
+    </li>
+  </ol>
+  <input type="submit" value="Update Order">
+</form>
