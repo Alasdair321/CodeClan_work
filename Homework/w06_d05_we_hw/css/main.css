@@ -1,0 +1,57 @@
+
+/* Color Theme Swatches in Hex */
+.Coldplay---Ink-1-hex { color: #F23847; }
+.Coldplay---Ink-2-hex { color: #BF3945; }
+.Coldplay---Ink-3-hex { color: #F2BBBF; }
+.Coldplay---Ink-4-hex { color: #400711; }
+.Coldplay---Ink-5-hex { color: #F28888; }
+
+
+html {
+  font-family: Righteous;
+}
+
+body {
+  border: 1px dashed black;
+  text-align: center;
+}
+.container-full {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: auto;
+  border: 1px solid black;
+}
+
+.container-form {
+  border: 1px solid cyan;
+  width: 100%;
+}
+
+.container-list {
+  border: 1px solid purple;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.container-todo-item {
+  border: 1px solid red;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 80%;
+  padding: 25px 0px 25px 0px;
+}
+.todo-title {
+  background-color: #BF3945;
+  width: 100%;
+}
+.todo-dates {
+  background-color: #F28888;
+  width: 25%;
+}
+.todo-details {
+  background-color: #F2BBBF;
+  width: 75%;
+}
