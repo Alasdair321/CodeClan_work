@@ -12,31 +12,27 @@ html {
 }
 
 body {
-  border: 1px dashed black;
   text-align: center;
+  color: black;
 }
 .container-full {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   max-width: auto;
-  border: 1px solid black;
 }
 
 .container-form {
-  border: 1px solid cyan;
   width: 100%;
 }
 
 .container-list {
-  border: 1px solid purple;
   width: 100%;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
 }
 .container-todo-item {
-  border: 1px solid red;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -54,4 +50,24 @@ body {
 .todo-details {
   background-color: #F2BBBF;
   width: 75%;
+}
+
+.button {
+  height: 50px;
+  width: 140px;
+  background-color: #BF3945;
+  margin: 10px;
+}
+
+.input {
+  padding: 20px;
+  margin: 0px;
+}
+
+.input1 {
+  background-color: #F2BBBF;
+}
+
+.input2 {
+  background-color: #F28888;
 }
