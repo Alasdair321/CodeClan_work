@@ -15,6 +15,9 @@ body {
   text-align: center;
   color: black;
 }
+
+
+
 .container-full {
   display: flex;
   justify-content: center;
@@ -54,14 +57,35 @@ body {
 
 .button {
   height: 50px;
-  width: 140px;
+  width: 175px;
   background-color: #BF3945;
   margin: 10px;
+  color: white;
+}
+
+.button:hover{
+  background-color: #F28888;
+}
+
+button, input, textarea, select {
+  font-family: Righteous;
+  font-size: 1em;
+  text-align: center;
+
 }
 
 .input {
   padding: 20px;
   margin: 0px;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.input input, textarea, select {
+  width: 50%;
+  padding: 12px;
+  margin-top: 12px;
 }
 
 .input1 {

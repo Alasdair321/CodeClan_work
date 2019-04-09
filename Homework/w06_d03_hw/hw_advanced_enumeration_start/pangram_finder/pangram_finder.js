@@ -6,7 +6,7 @@ const PangramFinder = function(phrase) {
 PangramFinder.prototype.isPangram = function() {
   const removedChars = this.removeSpecials();
   const lowerCase = removedChars.toLowerCase();
-  return this.alphabet.every(this.hasLetter);
+  return this.alphabet.every(letter=> lowerCase.includes(letter));
 }
 
 PangramFinder.prototype.removeSpecials = function() {};
@@ -18,11 +18,18 @@ for (let i = 0; i < lower.length; ++i) {
   if (lower[i] != upper[i] || lower[i].trim() === '')
     result += this.phrase[i];
 }
-return result;
+return result.split('');
 }
 
-PangramFinder.prototype.hasLetter = function(letter) {
-  return this.phrase.includes(letter);
+module.exports = PangramFinder;
+// 
+const PangramFinder = function (phrase) {
+  this.phrase = phrase.toLowerCase();
+  this.alphabet = 'qwertyuiopasdfghjklzxcvbnm'.split('');
+}
+
+PangramFinder.prototype.isPangram = function () {
+  return this.alphabet.every(letter => this.phrase.includes(letter));
 }
 
 module.exports = PangramFinder;
