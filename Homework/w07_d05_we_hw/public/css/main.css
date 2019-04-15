@@ -1,4 +1,9 @@
 body {
   background-color: ivory;
-  color: coral;
+  color: red;
+}
+
+#mapid {
+  height: 500px;
+  width: 800px;
 }
