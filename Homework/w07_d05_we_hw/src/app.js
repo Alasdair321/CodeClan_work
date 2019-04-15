@@ -7,7 +7,7 @@ const CrimeFinder = require('./models/CrimeFinder.js');
 document.addEventListener('DOMContentLoaded',()=>{
   console.log(`js loaded`);
 
-  const map = new MapView(L.map('mapid').setView([51.505, -0.09], 13));
+  const map = new MapView(L.map('mapid').setView([55.949734475860495, -3.1935882568359375], 13));
   map.generate();
   // map.bindEvents();
 
