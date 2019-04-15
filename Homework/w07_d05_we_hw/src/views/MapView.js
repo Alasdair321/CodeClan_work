@@ -1,4 +1,4 @@
-const PubSub
+const PubSub = require('../helpers/pub_sub.js');
 
 const MapView = function (mymap){
     this.mymap = mymap;
@@ -12,8 +12,8 @@ MapView.prototype.generate = function (){
         id: 'mapbox.streets',
         accessToken: 'pk.eyJ1IjoiYWxhc2RhaXIzMjEiLCJhIjoiY2p1aHRtc3gyMDM4bDRlcGVoY2YwZzFwZyJ9.bOkojmu7l5VbM5zdlSxQhA'
     }).addTo(this.mymap);
-    var marker = L.marker([51.5, -0.09]).addTo(this.mymap);
-    marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
+    // let marker = L.marker([51.5, -0.09]).addTo(this.mymap);
+    // marker.bindPopup("Latitude: 51.5, Longitude: -0.09").openPopup();
     this.mymap.on('click', this.onMapClick);
 
 };
@@ -23,8 +23,22 @@ MapView.prototype.generate = function (){
 
 MapView.prototype.onMapClick = function (e) {
     // alert("You clicked the map at " + e.latlng);
-    console.log(e.latlng);
-    
+    // console.log(e.latlng);
+    // const lat = this.toFixedTrunc(e.latlng['lat'], 3);
+    // console.log(e);
+    // console.log(e.latlng['lng']);
+    // let marker = L.marker([e.latlng['lat'], e.latlng['lng']]).addTo(this.mymap);
+    // marker.bindPopup("hello");
+    PubSub.publish('MapView:LocationChosen',e.latlng);
 }
+
+// MapView.prototype.toFixedTrunc = function (value, n) {
+//     const v = value.split('.');
+//     if (n <= 0) return v[0];
+//     let f = v[1] || '';
+//     if (f.length > n) return `${v[0]}.${f.substr(0,n)}`;
+//     while (f.length < n) f += '0';
+//     return `${v[0]}.${f}`
+//   }
 
 module.exports = MapView;

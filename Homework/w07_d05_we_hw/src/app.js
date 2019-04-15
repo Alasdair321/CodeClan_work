@@ -11,7 +11,8 @@ document.addEventListener('DOMContentLoaded',()=>{
   map.generate();
   // map.bindEvents();
 
-  
+  const crimeFinder = new CrimeFinder();
+  crimeFinder.bindEvents();
 
 
 });
