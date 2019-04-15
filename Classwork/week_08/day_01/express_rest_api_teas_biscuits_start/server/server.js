@@ -9,7 +9,6 @@ app.use(express.static(publicPath));
 
 app.use(bodyParser.json());
 
-
 const teas = [
   { name: "Early Grey", brand: "Twinings" },
   { name: "Irish Breakfast", brand: "Barry's Tea" },
@@ -20,7 +19,6 @@ const teas = [
 
 const teasRouter = createRouter(teas);
 app.use('/api/teas', teasRouter);
-
 
 app.listen(3000, function () {
   console.log(`App running on port ${ this.address().port }`);
