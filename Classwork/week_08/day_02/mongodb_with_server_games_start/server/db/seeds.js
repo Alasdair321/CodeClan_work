@@ -1,8 +1,7 @@
 use games_hub;
 db.dropDatabase();
 
-db.games.insertMany([
-  {
+db.games.insertMany([{
     name: "Love Letter",
     playingTime: 20,
     players: {
