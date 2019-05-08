@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe506048-9f96-4d8b-9356-78eebb243a25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToJava/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToJava/src/main/java/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToJava/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/src/main/java/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/src/test/java/BearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/src/main/java/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WordCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NumberListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WordCollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultipleClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultipleClasses/src/main/java/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultipleClasses/src/main/java/Salmon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MultipleClasses/src/test/java/BearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array_start_point/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array_start_point/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array_start_point/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array_start_point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array_start_point/array_start_point.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Homework/w11_d11_hw/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Homework/w11_d11_hw/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Homework/w11_d11_hw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Homework/w11_d11_hw/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Homework/w11_d11_hw/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../src/main/java/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_2/week2day2lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_02/day_2/week2day2lab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_02/mongodb_with_server_games_start/server/helpers/create_router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_08/day_02/mongodb_with_server_games_start/server/helpers/create_router.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/WordCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/WordCollectionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NumberList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/NumberListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#907#908#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/WordCollection.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WordCollectionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NumberList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NumberListTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BasicArrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicArrays" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicArrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicArrays" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicArrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicArrays" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicArrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicArrays" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicArrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicArrays" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicArrays" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicArrays" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557224406072" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.NumberListTest">
+    <configuration name="NumberListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.arrays.BasicArrays.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberListTest.canGetFirstNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.arrays.BasicArrays.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberListTest" />
+      <option name="METHOD_NAME" value="canGetFirstNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberListTest.canGetTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.arrays.BasicArrays.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberListTest" />
+      <option name="METHOD_NAME" value="canGetTotal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCollectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.arrays.BasicArrays.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordCollectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NumberListTest" />
+        <item itemvalue="JUnit.NumberListTest.canGetTotal" />
+        <item itemvalue="JUnit.NumberListTest.canGetFirstNumber" />
+        <item itemvalue="JUnit.WordCollectionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe506048-9f96-4d8b-9356-78eebb243a25" name="Default Changelist" comment="" />
+      <created>1557219696381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557219696381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="WordCollectionTest - 2019.05.07 at 10h 09m 22s.xml">
+      <configuration name="WordCollectionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberListTest - 2019.05.07 at 10h 27m 20s.xml">
+      <configuration name="NumberListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberListTest - 2019.05.07 at 10h 30m 22s.xml">
+      <configuration name="NumberListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberListTest_canGetFirstNumber - 2019.05.07 at 10h 32m 34s.xml">
+      <configuration name="NumberListTest.canGetFirstNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberListTest_canGetFirstNumber - 2019.05.07 at 10h 55m 01s.xml">
+      <configuration name="NumberListTest.canGetFirstNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberListTest_canGetTotal - 2019.05.07 at 10h 55m 09s.xml">
+      <configuration name="NumberListTest.canGetTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberListTest_canGetTotal - 2019.05.07 at 10h 57m 35s.xml">
+      <configuration name="NumberListTest.canGetTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberListTest - 2019.05.07 at 11h 02m 13s.xml">
+      <configuration name="NumberListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberListTest - 2019.05.07 at 11h 02m 50s.xml">
+      <configuration name="NumberListTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.28554216" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/WordCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WordCollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NumberListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NumberList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
