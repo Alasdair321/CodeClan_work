@@ -1,8 +1,9 @@
 package ThemePark.Stalls;
 
 import ThemePark.Interfaces.IReviewed;
+import ThemePark.Interfaces.ITicketed;
 
-public abstract class Stall implements IReviewed {
+public abstract class Stall implements IReviewed, ITicketed {
     private String name;
     private String ownerName;
     private int parkingSpot;

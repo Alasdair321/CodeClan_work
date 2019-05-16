@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class Printer implements IConnect{
 
-public class Printer {
+    @Override
+    public String connect() {
+        return "Connecting to the network...";
+    }
 }

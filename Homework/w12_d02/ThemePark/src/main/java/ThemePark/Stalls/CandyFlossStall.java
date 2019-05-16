@@ -7,4 +7,13 @@ public class CandyFlossStall extends Stall {
     }
 
 
+    @Override
+    public double defaultPrice() {
+        return 3.0;
+    }
+
+    @Override
+    public double priceForVisitor() {
+        return 3.0;
+    }
 }

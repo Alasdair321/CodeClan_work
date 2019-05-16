@@ -11,10 +11,10 @@ public class WordCollectionTest {
         myWords = new WordCollection();
     }
 
-//    @Test
-//    public void canGetWordCount(){
-//        assertEquals(0, myWords.getWordCount());
-//    }
+    @Test
+    public void canGetWordCount(){
+        assertEquals(0, myWords.getWordCount());
+    }
 
 
 

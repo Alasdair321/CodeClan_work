@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/no_polymorphism_start_point.iml" filepath="$PROJECT_DIR$/no_polymorphism_start_point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.iml" filepath="$PROJECT_DIR$/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.main.iml" filepath="$PROJECT_DIR$/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.test.iml" filepath="$PROJECT_DIR$/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.test.iml" />
     </modules>
   </component>
 </project>

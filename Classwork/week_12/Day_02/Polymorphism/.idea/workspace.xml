@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02bd752e-7806-4a74-a53a-bbe3abce06e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/modules/enums.enums.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/modules/enums.enums.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/modules/enums.enums.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/src/main/java/RankType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/src/main/java/SuitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/BearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/MammalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/abstract_classes_start_point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/modules/inheritance_start_point.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/modules/inheritance_start_point.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/inheritance_start_point.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/src/test/java/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/modules/PackagesStartPoint.PackagesStartPoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/modules/PackagesStartPoint.PackagesStartPoint.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/modules/PackagesStartPoint.PackagesStartPoint.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/src/main/java/Animal/Air/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/src/main/java/ICycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/src/main/java/IRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces_start_point/src/main/java/ISwim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/src/main/java/IConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../no_polymorphism_start_point/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_2/week2day2lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_02/day_2/week2day2lab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_01/IntroToJava/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_01/IntroToJava/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_01/IntroToTesting/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_01/IntroToTesting/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_01/MiniLabPlanets/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_01/MiniLabPlanets/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/MultipleClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/MultipleClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/array_start_point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/main/java/WordCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/main/java/WordCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/test/java/WordCollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/test/java/WordCollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w11_d02/ClassesHomework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w11_d02/ClassesHomework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Learning Objectives Summary.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Learning Objectives Summary.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/classes/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../src/main/java/Runner.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Polymorphism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Polymorphism" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Polymorphism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Polymorphism" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02bd752e-7806-4a74-a53a-bbe3abce06e7" name="Default Changelist" comment="" />
+      <created>1557843245354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557843245354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>

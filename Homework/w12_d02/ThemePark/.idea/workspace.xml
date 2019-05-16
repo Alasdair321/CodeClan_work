@@ -2,109 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad93373d-3f3b-42dc-86d6-7eb2a9cd8031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/modules/enums.enums.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/modules/enums.enums.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/modules/enums.enums.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/src/main/java/RankType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/src/main/java/SuitType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/main/java/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/main/java/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/main/java/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/test/java/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/test/java/BearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/test/java/MammalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/abstract_classes_start_point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/modules/inheritance_start_point.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/modules/inheritance_start_point.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/inheritance_start_point.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/src/test/java/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/modules/PackagesStartPoint.PackagesStartPoint.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/modules/PackagesStartPoint.PackagesStartPoint.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/modules/PackagesStartPoint.PackagesStartPoint.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/src/main/java/Animal/Air/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/Polymorphism/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/src/main/java/ICycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/src/main/java/IRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/src/main/java/ISwim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/src/main/java/IConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/src/main/java/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/.idea/modules/NoPolymorphismStartPoint.NoPolymorphismStartPoint.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/src/main/java/InternetRadio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Attractions/Attraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Attractions/Dodgems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Attractions/Park.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Attractions/Playground.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Attractions/RollerCoaster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Interfaces/IReviewed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Interfaces/ISecurity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Interfaces/ITicketed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/CandyFlossStall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/IceCreamStall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Stall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/TobaccoStall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/ThemePark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/VisitorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Classwork/week_02/day_2/week2day2lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_02/day_2/week2day2lab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToJava/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToJava/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToTesting/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToTesting/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
@@ -116,7 +13,44 @@
       <change beforePath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/array_start_point/array_start_point.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/array_start_point/src/main/java/WordCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/array_start_point/src/main/java/WordCollection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/array_start_point/src/test/java/WordCollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/array_start_point/src/test/java/WordCollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/enums_start_point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/src/main/java/RankType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/src/main/java/RankType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/src/main/java/SuitType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_04/enums_start_point/src/main/java/SuitType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/main/java/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/main/java/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/main/java/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/main/java/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/main/java/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/test/java/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/test/java/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/test/java/BearTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/test/java/BearTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/test/java/MammalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/AnimalInheritance/src/test/java/MammalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/inheritance_start_point.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/inheritance_start_point.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/src/test/java/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/inheritance_start_point/src/test/java/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_01/packages_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/interfaces_start_point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/src/main/java/ICycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/src/main/java/ICycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/src/main/java/IRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/src/main/java/IRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/src/main/java/ISwim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/interfaces_start_point/src/main/java/ISwim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/no_polymorphism_start_point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/src/main/java/IConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/src/main/java/IConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/no_polymorphism_start_point/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/src/main/java/InternetRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_12/Day_02/polymorphism_end_point/src/main/java/InternetRadio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../w11_d02/ClassesHomework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../w11_d02/ClassesHomework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/ThemeParkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ThemeParkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/CandyFlossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/CandyFlossStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/IceCreamStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/IceCreamStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Stall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/TobaccoStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark/ThemePark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Learning Objectives Summary.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Learning Objectives Summary.pages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../build.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
@@ -146,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/ThemePark.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+            <state relative-caret-position="411">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#293#294#0" expanded="true" />
@@ -163,13 +97,87 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Interfaces/ITicketed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Stall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#695#696#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/CandyFlossStall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/IceCreamStall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+              <folding>
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/TobaccoStall.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding>
                 <element signature="e#1177#1178#0" expanded="true" />
                 <element signature="e#1198#1199#0" expanded="true" />
               </folding>
@@ -209,17 +217,17 @@
         <option value="$PROJECT_DIR$/src/main/java/ThemePark/Attractions/Attraction.java" />
         <option value="$PROJECT_DIR$/src/test/java/RollercoasterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/PlaygroundTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/TobaccoStall.java" />
         <option value="$PROJECT_DIR$/src/test/java/TobaccoStallTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Stall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/CandyFlossStall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/IceCreamStall.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThemePark/Attractions/RollerCoaster.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThemePark/Attractions/Dodgems.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThemePark/Attractions/Park.java" />
         <option value="$PROJECT_DIR$/src/main/java/ThemePark/Attractions/Playground.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThemePark/ThemePark.java" />
         <option value="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThemePark/ThemePark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Stall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/CandyFlossStall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/IceCreamStall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ThemePark/Stalls/TobaccoStall.java" />
       </list>
     </option>
   </component>
@@ -317,7 +325,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557900847754" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557911778354" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -331,7 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ThemeParkTest.getRatingOfAllAttractions">
+  <component name="RunManager" selected="JUnit.ThemeParkTest">
     <configuration name="PlaygroundTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.codeclan.ThemePark.ThemePark.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -381,9 +389,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ThemeParkTest" />
         <item itemvalue="JUnit.ThemeParkTest.getRatingOfAllAttractions" />
         <item itemvalue="JUnit.ThemeParkTest.canAddAllAttractions" />
-        <item itemvalue="JUnit.ThemeParkTest" />
         <item itemvalue="JUnit.PlaygroundTest" />
         <item itemvalue="JUnit.RollercoasterTest" />
       </list>
@@ -403,18 +411,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TobaccoStallTest_oldEnough - 2019.05.15 at 06h 17m 21s.xml">
-      <configuration name="TobaccoStallTest.oldEnough" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RollercoasterTest - 2019.05.15 at 06h 18m 50s.xml">
-      <configuration name="RollercoasterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PlaygroundTest - 2019.05.15 at 06h 19m 48s.xml">
-      <configuration name="PlaygroundTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ThemeParkTest - 2019.05.15 at 06h 48m 13s.xml">
-      <configuration name="ThemeParkTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ThemeParkTest - 2019.05.15 at 06h 48m 54s.xml">
       <configuration name="ThemeParkTest" configurationId="JUnit" />
     </history-entry>
@@ -433,6 +429,18 @@
     <history-entry file="ThemeParkTest_getRatingOfAllAttractions - 2019.05.15 at 07h 01m 05s.xml">
       <configuration name="ThemeParkTest.getRatingOfAllAttractions" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ThemeParkTest_getRatingOfAllAttractions - 2019.05.15 at 07h 12m 28s.xml">
+      <configuration name="ThemeParkTest.getRatingOfAllAttractions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThemeParkTest_getRatingOfAllAttractions - 2019.05.15 at 07h 13m 53s.xml">
+      <configuration name="ThemeParkTest.getRatingOfAllAttractions" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThemeParkTest - 2019.05.15 at 07h 19m 08s.xml">
+      <configuration name="ThemeParkTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ThemeParkTest - 2019.05.15 at 07h 19m 14s.xml">
+      <configuration name="ThemeParkTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -443,9 +451,9 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Messages" order="0" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="3" weight="0.32916668" />
@@ -527,53 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Interfaces/ITicketed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Stall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="6" selection-start-line="17" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/CandyFlossStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/IceCreamStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/TobaccoStall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -680,8 +641,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/ThemePark.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        <state relative-caret-position="411">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#293#294#0" expanded="true" />
@@ -696,14 +657,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Interfaces/ITicketed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/Stall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ThemeParkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
             <element signature="e#1177#1178#0" expanded="true" />
             <element signature="e#1198#1199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/TobaccoStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/IceCreamStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ThemePark/Stalls/CandyFlossStall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
           </folding>
         </state>
       </provider>

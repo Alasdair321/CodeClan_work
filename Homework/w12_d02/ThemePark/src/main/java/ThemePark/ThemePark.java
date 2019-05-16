@@ -43,4 +43,8 @@ public class ThemePark {
     public void addAttraction(IReviewed attraction){
         attractions.add(attraction);
     }
+
+    public void visit(Visitor visitor, IReviewed attraction){
+
+    }
 }

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/inheritance_start_point.iml" filepath="$PROJECT_DIR$/inheritance_start_point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance_start_point.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance_start_point.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inheritance_start_point.test.iml" filepath="$PROJECT_DIR$/.idea/modules/inheritance_start_point.test.iml" />
     </modules>
   </component>
 </project>

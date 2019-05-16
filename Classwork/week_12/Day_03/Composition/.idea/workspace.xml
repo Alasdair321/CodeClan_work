@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e800a664-68a7-4cb4-8117-15af13d22f53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.codeclan.composition.Composition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.codeclan.composition.Composition.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/com.codeclan.composition.Composition.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IAudio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_2/week2day2lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_02/day_2/week2day2lab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_01/IntroToJava/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_01/IntroToJava/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_01/IntroToTesting/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_01/IntroToTesting/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_01/MiniLabPlanets/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_01/MiniLabPlanets/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/MultipleClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/MultipleClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/array_start_point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/main/java/WordCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/main/java/WordCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/test/java/WordCollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/test/java/WordCollectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/enums_start_point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/src/main/java/RankType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/src/main/java/RankType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/src/main/java/SuitType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/src/main/java/SuitType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Bear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/AnimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/BearTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/BearTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/MammalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/MammalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/inheritance_start_point.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/inheritance_start_point.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/src/test/java/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/src/test/java/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/interfaces_start_point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/ICycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/ICycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/IRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/IRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/ISwim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/ISwim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/no_polymorphism_start_point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/src/main/java/IConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/src/main/java/IConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day_02/polymorphism_end_point/src/main/java/InternetRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/polymorphism_end_point/src/main/java/InternetRadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w11_d02/ClassesHomework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w11_d02/ClassesHomework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/out/test/classes/ThemeParkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/out/test/classes/ThemeParkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/CandyFlossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/CandyFlossStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/IceCreamStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/IceCreamStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/Stall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/TobaccoStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/ThemePark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/test/java/ThemeParkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/test/java/ThemeParkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Learning Objectives Summary.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Learning Objectives Summary.pages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../out/production/classes/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../src/main/java/Runner.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Computer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Speaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Headphones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/HeadphoneType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ComputerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="79" column="74" selection-start-line="79" selection-start-column="74" selection-end-line="79" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/IAudio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Speaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Headphones.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Computer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ComputerTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Composition" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Composition" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Composition" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Composition" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Composition" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Composition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Composition" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557988015472" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ComputerTest.canSetSpeaker">
+    <configuration name="ComputerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.composition.Composition.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ComputerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerTest.canSetSpeaker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.composition.Composition.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ComputerTest" />
+      <option name="METHOD_NAME" value="canSetSpeaker" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ComputerTest.canSetSpeaker" />
+        <item itemvalue="JUnit.ComputerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e800a664-68a7-4cb4-8117-15af13d22f53" name="Default Changelist" comment="" />
+      <created>1557912005080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557912005080</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ComputerTest - 2019.05.15 at 10h 36m 50s.xml">
+      <configuration name="ComputerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ComputerTest_canSetSpeaker - 2019.05.15 at 10h 37m 02s.xml">
+      <configuration name="ComputerTest.canSetSpeaker" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="808" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32916668" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33100557" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Speaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IAudio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="53" column="37" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Headphones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HeadphoneType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ComputerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="79" column="74" selection-start-line="79" selection-start-column="74" selection-end-line="79" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

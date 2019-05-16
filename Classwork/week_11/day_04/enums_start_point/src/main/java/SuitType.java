@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
-public enum SuitTypes {
+public enum SuitType {
+    SPADES,
+    CLUBS,
+    HEARTS,
+    DIAMONDS
 }

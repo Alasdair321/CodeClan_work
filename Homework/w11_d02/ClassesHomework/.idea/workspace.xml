@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da35b731-ab08-4ca8-a5fd-3ef39b8889e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToJava/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToJava/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToJava/src/main/java/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToJava/src/main/java/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToTesting/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToTesting/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToTesting/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToTesting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToTesting/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToTesting/src/main/java/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/IntroToTesting/src/test/java/BearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/MiniLabPlanets/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/MiniLabPlanets/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/MiniLabPlanets/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/MiniLabPlanets/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/MiniLabPlanets/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/MiniLabPlanets/src/main/java/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_01/MiniLabPlanets/src/main/java/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/BasicArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/BasicArrays/src/main/java/NumberList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/BasicArrays/src/main/java/WordCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/BasicArrays/src/test/java/NumberListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/BasicArrays/src/test/java/WordCollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/MultipleClasses/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/MultipleClasses/src/main/java/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/MultipleClasses/src/main/java/River.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/MultipleClasses/src/main/java/Salmon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/MultipleClasses/src/test/java/BearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/MultipleClasses/src/test/java/RiverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/array_start_point/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/array_start_point/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/array_start_point/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/array_start_point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Classwork/week_11/day_02/array_start_point/array_start_point.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Borrower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BorrowerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../w11_d11_hw/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../w11_d11_hw/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../w11_d11_hw/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../w11_d11_hw/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../w11_d11_hw/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../src/main/java/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Classwork/week_02/day_2/week2day2lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_02/day_2/week2day2lab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Classwork/week_08/day_02/mongodb_with_server_games_start/server/helpers/create_router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Classwork/week_08/day_02/mongodb_with_server_games_start/server/helpers/create_router.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -68,67 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-              <folding>
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Library.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Borrower.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/BorrowerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="35" column="43" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -262,7 +154,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557242902570" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557248913834" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -371,7 +263,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -434,14 +326,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Library.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="14" />
+        <state relative-caret-position="360">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -471,14 +363,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Library.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LibraryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
           </folding>
         </state>
       </provider>

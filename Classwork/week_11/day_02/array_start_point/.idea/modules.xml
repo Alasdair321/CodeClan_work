@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/array_start_point.iml" filepath="$PROJECT_DIR$/array_start_point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Array_and_ArrayLists_start.iml" filepath="$PROJECT_DIR$/.idea/modules/Array_and_ArrayLists_start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Array_and_ArrayLists_start.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Array_and_ArrayLists_start.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Array_and_ArrayLists_start.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Array_and_ArrayLists_start.test.iml" />
     </modules>
   </component>
 </project>

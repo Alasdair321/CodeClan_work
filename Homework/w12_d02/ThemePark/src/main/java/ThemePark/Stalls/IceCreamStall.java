@@ -7,5 +7,13 @@ public class IceCreamStall extends Stall {
         super(name, ownerName, parkingSpot, rating);
     }
 
+    @Override
+    public double defaultPrice() {
+        return 2.50;
+    }
 
+    @Override
+    public double priceForVisitor() {
+        return 2.50;
+    }
 }

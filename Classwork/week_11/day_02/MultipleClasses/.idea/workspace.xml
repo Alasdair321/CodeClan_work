@@ -2,48 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ecdc31b-dada-438b-a5a0-2564e3f01110" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToJava/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToJava/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToJava/src/main/java/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToJava/src/main/java/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/src/main/java/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/src/test/java/BearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/src/main/java/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/src/main/java/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BasicArrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BasicArrays/src/main/java/NumberList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BasicArrays/src/main/java/WordCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BasicArrays/src/test/java/NumberListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BasicArrays/src/test/java/WordCollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/River.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Salmon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BearTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RiverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_start_point/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_start_point/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_start_point/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_start_point/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../array_start_point/array_start_point.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Homework/w11_d11_hw/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Homework/w11_d11_hw/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Homework/w11_d11_hw/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Homework/w11_d11_hw/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Homework/w11_d11_hw/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../src/main/java/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week_02/day_2/week2day2lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_02/day_2/week2day2lab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_08/day_02/mongodb_with_server_games_start/server/helpers/create_router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_08/day_02/mongodb_with_server_games_start/server/helpers/create_router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_01/IntroToJava/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_01/IntroToJava/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_01/IntroToTesting/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_01/IntroToTesting/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../day_01/MiniLabPlanets/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Homework/w11_d02/ClassesHomework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w11_d02/ClassesHomework/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -62,19 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Bear.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Salmon.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -82,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BearTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="255">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="21" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/River.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="180">
               <caret line="19" column="26" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="26" />
               <folding>
                 <element signature="e#106#107#0" expanded="true" />
@@ -107,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RiverTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="90">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -190,12 +144,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557235793827" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -269,7 +224,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -321,44 +276,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Salmon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RiverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/River.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BearTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="21" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../BasicArrays/src/main/java/NumberList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -369,7 +286,45 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Bear.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BearTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/River.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RiverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Salmon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>

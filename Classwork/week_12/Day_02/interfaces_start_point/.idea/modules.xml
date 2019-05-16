@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/interfaces_start_point.iml" filepath="$PROJECT_DIR$/interfaces_start_point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.iml" filepath="$PROJECT_DIR$/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.main.iml" filepath="$PROJECT_DIR$/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.test.iml" filepath="$PROJECT_DIR$/.idea/modules/InterfacesStartPoint.InterfacesStartPoint.test.iml" />
     </modules>
   </component>
 </project>
