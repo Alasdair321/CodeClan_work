@@ -2,75 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e800a664-68a7-4cb4-8117-15af13d22f53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/com.codeclan.composition.Composition.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/com.codeclan.composition.Composition.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/com.codeclan.composition.Composition.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IAudio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week_02/day_2/week2day2lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_02/day_2/week2day2lab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_01/IntroToJava/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_01/IntroToJava/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_01/IntroToTesting/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_01/IntroToTesting/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_01/MiniLabPlanets/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_01/MiniLabPlanets/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/MultipleClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/MultipleClasses/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/array_start_point.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/main/java/WordCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/main/java/WordCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/test/java/WordCollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_02/array_start_point/src/test/java/WordCollectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/enums_start_point.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/src/main/java/RankType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/src/main/java/RankType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/src/main/java/SuitType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_11/day_04/enums_start_point/src/main/java/SuitType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Bear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Bear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/main/java/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/AnimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/AnimalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/BearTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/BearTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/MammalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/AnimalInheritance/src/test/java/MammalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/inheritance_start_point.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/inheritance_start_point.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/src/main/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/src/test/java/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/inheritance_start_point/src/test/java/PersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_01/packages_start_point/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/interfaces_start_point.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/ICycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/ICycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/IRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/IRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/ISwim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/interfaces_start_point/src/main/java/ISwim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/no_polymorphism_start_point.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/src/main/java/IConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/src/main/java/IConnect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/no_polymorphism_start_point/src/main/java/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day_02/polymorphism_end_point/src/main/java/InternetRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day_02/polymorphism_end_point/src/main/java/InternetRadio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Homework/w11_d02/ClassesHomework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w11_d02/ClassesHomework/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/out/test/classes/ThemeParkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/out/test/classes/ThemeParkTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/CandyFlossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/CandyFlossStall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/IceCreamStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/IceCreamStall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/Stall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/Stalls/TobaccoStall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/main/java/ThemePark/ThemePark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/test/java/ThemeParkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Homework/w12_d02/ThemePark/src/test/java/ThemeParkTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Learning Objectives Summary.pages" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Learning Objectives Summary.pages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../out/production/classes/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../src/main/java/Runner.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -218,7 +151,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557988015472" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557988085221" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -299,7 +232,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33100557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33100557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
