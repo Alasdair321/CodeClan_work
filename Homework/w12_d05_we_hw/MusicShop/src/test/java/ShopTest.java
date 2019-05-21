@@ -95,6 +95,6 @@ public class ShopTest {
         shop.addStockItem(violin, 1);
         shop.addStockItem(oboe, 1);
 
-        assertEquals(70,shop.calculatePotentialProfit(),0);
+        assertEquals(70,shop.calculatePotentialProfit2(),0);
     }
 }

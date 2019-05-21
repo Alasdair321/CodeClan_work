@@ -1,4 +1,6 @@
 import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
 
 public class Shop implements ISell{
     private HashMap<Stock , Integer> stock;
@@ -58,12 +60,18 @@ public class Shop implements ISell{
         return sellPrice - buyPrice;
     }
 
+
     public double calculatePotentialProfit(){
         double profit = 0;
-        for (HashMap.Entry stockItem: stock.entrySet()
-             ) {
-            
-            stockItem.getValue();
+        for (Stock stockItem: stock.keySet()) {
+            profit += (calculateMarkup(stockItem) * stockItemQuantity(stockItem));
+        }
+        return profit;
+    }
+    public double calculatePotentialProfit2(){
+        double profit = 0;
+        for (Map.Entry<Stock, Integer> stockItem : stock.entrySet()) {
+            profit += (calculateMarkup(stockItem.getKey()) * stockItem.getValue());
         }
         return profit;
     }
