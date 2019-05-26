@@ -1,6 +1,6 @@
-package com.codeclan.example.PriateService.repositories;
+package com.codeclan.example.PirateService.repositories;
 
-import com.codeclan.example.PriateService.models.Pirate;
+import com.codeclan.example.PirateService.models.Pirate;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

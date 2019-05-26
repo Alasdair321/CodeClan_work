@@ -25,7 +25,6 @@ public class File {
 
     @JsonIgnoreProperties("files")
     @ManyToOne
-    @Cascade(org.hibernate.annotations.CascadeType.SAVE_UPDATE)
 
     @JoinColumn(name = "folder_id", nullable = false)
     private Folder folder;

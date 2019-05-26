@@ -23,13 +23,13 @@ public class Folder implements Serializable {
 
     @JsonIgnoreProperties("folders")
     @ManyToOne
-    @Cascade(org.hibernate.annotations.CascadeType.SAVE_UPDATE)
 
     @JoinColumn(name = "user_id", nullable = false)
     private User user;
 
     @JsonIgnore
     @OneToMany(mappedBy = "folder", fetch = FetchType.LAZY)
+    @Cascade(org.hibernate.annotations.CascadeType.DELETE)
     private List<File> files;
 
     public Folder(String title, User user) {

@@ -6,7 +6,7 @@ import org.springframework.data.rest.core.config.Projection;
 
 @Projection(name = "embedShip", types = Pirate.class)
 
-public interface EmbdedShip {
+public interface EmbedShip {
     String getFirstName();
     String getLastName();
     int getAge();
