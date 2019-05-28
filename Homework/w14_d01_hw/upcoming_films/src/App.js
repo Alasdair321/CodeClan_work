@@ -1,11 +1,11 @@
 import React from 'react';
-import PiggyBank from './PiggyBank';
 import './App.css';
+import List from './List';
 
 
 function App() {
   return (
-    <PiggyBank title="My Piggy Bank" amount={10}/>
+    <List />
   );
 }
 

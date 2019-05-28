@@ -1,11 +1,10 @@
 import React from 'react';
-import PiggyBank from './PiggyBank';
 import './App.css';
-
+import CommentBox from './containers/CommentBox';
 
 function App() {
   return (
-    <PiggyBank title="My Piggy Bank" amount={10}/>
+   <CommentBox ></CommentBox>
   );
 }
 

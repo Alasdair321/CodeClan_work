@@ -11,7 +11,7 @@ class PiggyBank extends Component {
     }
 
     depositPound(){
-        this.setState({ balancePounds: this.state.balancePounds + 1});
+        this.setState({ balancePounds: this.state.balancePounds + this.props.amount});
     }
 
     withdraw(){
@@ -25,8 +25,8 @@ class PiggyBank extends Component {
            <div>
                 <h1>{this.props.title}</h1>
                 <p>Balance: £{this.state.balancePounds}</p>
-                <button onClick={this.depositPound}>Deposit £1</button>
-                <button onClick={this.withdraw}>Withdraw</button>
+                <button onClick={this.depositPound}>Deposit £{this.props.amount}</button>
+                <button onClick={this.withdraw}>Withdraw £{this.props.amount}</button>
            </div>
             
        ); 
